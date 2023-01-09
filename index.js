@@ -4,4 +4,4 @@ function divide() {
 
 square = num => num * num
 
-add = (num1, num2) => num1 + num2
+const add = (x,y) => x+y
